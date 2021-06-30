@@ -1,1 +1,1 @@
-<p>成功しました</p>
+<p>News added successfully!</p>
